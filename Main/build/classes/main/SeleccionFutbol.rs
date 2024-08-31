@@ -1,0 +1,4 @@
+Entrenador
+Futbolista
+SeleccionFutbol
+Masajista

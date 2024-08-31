@@ -1,0 +1,54 @@
+|      USUARIO     |     TRANSACCION      |         FECHA Y HORA           | 
+
+|  sofia.morales  |    Usuario Logueado   |     2024-05-02T19:04:41.240312400  |  
+|  sofia.morales  |    Agrega memoria y SO   |     2024-05-02T19:05:06.652669400  |  
+|  sofia.morales  |    Agrega proceso   |     2024-05-02T19:05:33.627648600  |  
+|  sofia.morales  |    Agrega proceso   |     2024-05-02T19:07:12.152226400  |  
+|  sofia.morales  |    Agrega proceso   |     2024-05-02T19:08:28.069921900  |  
+|  null  |    Agrega memoria y SO   |     2024-05-02T20:20:17.569733700  |  
+|  null  |    Agrega proceso   |     2024-05-02T20:20:32.662837700  |  
+|  sofia.morales  |    Usuario Logueado   |     2024-05-02T20:29:45.841618600  |  
+|  sofia.morales  |    Agrega memoria y SO   |     2024-05-02T20:29:58.968468800  |  
+|  sofia.morales  |    Agrega proceso   |     2024-05-02T20:30:14.501733800  |  
+|  sofia.morales  |    Agrega proceso   |     2024-05-02T20:30:48.283458600  |  
+|  sofia.morales  |    Usuario Logueado   |     2024-05-02T20:36:15.540801300  |  
+|  sofia.morales  |    Agrega memoria y SO   |     2024-05-02T20:36:23.628693500  |  
+|  sofia.morales  |    Agrega proceso   |     2024-05-02T20:36:38.063462100  |  
+|  sofia.morales  |    Agrega proceso   |     2024-05-02T20:36:51.828687500  |  
+|  sofia.morales  |    Agrega proceso   |     2024-05-02T20:37:16.780635700  |  
+|  sofia.morales  |    Agrega proceso   |     2024-05-02T20:37:41.692935900  |  
+|  sofia.morales  |    Usuario Logueado   |     2024-05-02T20:39:49.607756800  |  
+|  sofia.morales  |    Agrega memoria y SO   |     2024-05-02T20:40:00.228560100  |  
+|  sofia.morales  |    Agrega proceso   |     2024-05-02T20:40:17.704873600  |  
+|  sofia.morales  |    Agrega proceso   |     2024-05-02T20:40:41.921546  |  
+|  sofia.morales  |    Agrega proceso   |     2024-05-02T20:41:11.200881400  |  
+|  sofia.morales  |    Usuario Logueado   |     2024-05-02T21:06:29.045636  |  
+|  sofia.morales  |    Agrega memoria y SO   |     2024-05-02T21:06:35.449493200  |  
+|  sofia.morales  |    Agrega proceso   |     2024-05-02T21:06:55.279630600  |  
+|  sofia.morales  |    Agrega proceso   |     2024-05-02T21:07:09.011438900  |  
+|  sofia.morales  |    Agrega proceso   |     2024-05-02T21:07:40.658069  |  
+|  jostin.juarez  |    Usuario Logueado   |     2024-05-02T21:28:02.961881700  |  
+|  jostin.juarez  |    Agrega memoria y SO   |     2024-05-02T21:28:22.253567700  |  
+|  jostin.juarez  |    Agrega proceso   |     2024-05-02T21:28:55.082339900  |  
+|  jostin.juarez  |    Usuario Logueado   |     2024-05-02T21:49:46.960052500  |  
+|  jostin.juarez  |    Agrega memoria y SO   |     2024-05-02T21:49:55.854552200  |  
+|  jostin.juarez  |    Agrega proceso   |     2024-05-02T21:50:07.821131700  |  
+|  jostin.juarez  |    Usuario Logueado   |     2024-05-02T22:01:42.565975600  |  
+|  jostin.juarez  |    Agrega memoria y SO   |     2024-05-02T22:01:51.141041400  |  
+|  jostin.juarez  |    Agrega proceso   |     2024-05-02T22:02:03.026235600  |  
+|  jostin.juarez  |    Usuario Logueado   |     2024-05-02T22:09:05.464435  |  
+|  jostin.juarez  |    Usuario Logueado   |     2024-05-02T22:09:54.463239  |  
+|  null  |    Agrega proceso   |     2024-05-02T22:10:48.911459200  |  
+|  null  |    Agrega memoria y SO   |     2024-05-02T22:13:21.007473  |  
+|  null  |    Agrega proceso   |     2024-05-02T22:13:37.901077400  |  
+|  jostin.juarez  |    Usuario Logueado   |     2024-05-02T22:15:05.466995600  |  
+|  jostin.juarez  |    Usuario Logueado   |     2024-05-02T22:15:58.299003800  |  
+|  null  |    Agrega memoria y SO   |     2024-05-02T23:12:25.673078200  |  
+|  null  |    Agrega proceso   |     2024-05-02T23:12:41.019291  |  
+|  jostin.juarez  |    Usuario Logueado   |     2024-05-02T23:18:50.691896100  |  
+|  null  |    Agrega memoria y SO   |     2024-05-02T23:19:53.903235900  |  
+|  null  |    Agrega proceso   |     2024-05-02T23:19:54.757182100  |  
+|  jostin.juarez  |    Usuario Logueado   |     2024-05-03T00:48:14.408898600  |  
+|  jostin.juarez  |    Agrega memoria y SO   |     2024-05-03T00:48:51.303856400  |  
+|  jostin.juarez  |    Agrega proceso   |     2024-05-03T00:49:04.685010900  |  
+|  jostin.juarez  |    Agrega proceso   |     2024-05-03T00:49:24.871721800  |  
